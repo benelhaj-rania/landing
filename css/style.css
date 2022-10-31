@@ -1,0 +1,19 @@
+@import url("https: //fonts.googleapis.com/css?family=Lora|Robot");
+
+@import url("component/container.css");
+@import url("component/avatar.css");
+@import url("component/button.css");
+@import url("component/banner.css");
+
+body {
+  font-family: 'Lora' , serif;
+  font-size: 18px;
+  margin: 0px;
+}
+h1, h2, h3 {
+	font-family: 'Robot', sans-serif;
+	font-weight: blod;
+}
+a {
+  text-decoration: none;
+}
